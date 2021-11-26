@@ -1,5 +1,5 @@
-# About me
-
+# Welcome!
+## About me
 I'm Abdelrahman Farid, an aspiring Computer Engineer, currently in my senior year at Cairo University. I'm based in Cairo, Egypt.
 
 
@@ -16,7 +16,7 @@ I like Chess, Bodybuilding, and Cinema. I'm highly competitive, and I attribute 
 </br>
 </br>
 
-I love working on Computer Graphics, and general Systems Programming. I wish to communicate my passion for computers with people through my work.
+I love working on Computer Graphics, Infrastructure, and general Systems Programming. I wish to communicate my passion for computers with people through my work.
 
 
 - Check out the two-player maze game I worked on with my classmates, made in pure x86 assembly, [HAUNTED](https://github.com/XL3/haunted).
@@ -25,10 +25,11 @@ I love working on Computer Graphics, and general Systems Programming. I wish to 
 
 ## [My GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
-[![XL3's github stats](https://github-readme-stats.vercel.app/api?username=XL3&hide=stars&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/XL3?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XL3&exclude_repo=sugar,Spotify-El8alaba-Frontend&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/XL3?tab=repositories)
+[![bytesiz3d's github stats](https://github-readme-stats.vercel.app/api?username=bytesiz3d&hide=stars&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/XL3?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytesiz3d&exclude_repo=sugar,Spotify-El8alaba-Frontend&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/XL3?tab=repositories)
 </br>
 
 ## Reach me @
 
-[<img align="left" alt="XL3 | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />](mailto:abdelrahman.farid@gmail.com)
-[<img align="left" alt="XL3 | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](https://www.linkedin.com/in/XL3/)
+[<img align="left" alt="Abdelrahman Farid | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />](mailto:abdelrahman.farid@gmail.com)
+[<img align="left" alt="bytesiz3d | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](https://www.linkedin.com/in/XL3/)
