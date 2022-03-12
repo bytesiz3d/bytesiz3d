@@ -25,8 +25,8 @@ I love working on Computer Graphics, Infrastructure, and general Systems Program
 
 ## [My GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
-[![bytesiz3d's github stats](https://github-readme-stats.vercel.app/api?username=bytesiz3d&hide=stars&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/XL3?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytesiz3d&exclude_repo=sugar,Spotify-El8alaba-Frontend&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/XL3?tab=repositories)
+[![bytesiz3d's github stats](https://github-readme-stats.vercel.app/api?username=bytesiz3d&hide=stars&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/bytesiz3d?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytesiz3d&exclude_repo=sugar,Spotify-El8alaba-Frontend&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/bytesiz3d?tab=repositories)
 </br>
 
 ## Reach me @
