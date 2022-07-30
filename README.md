@@ -1,9 +1,9 @@
 # Welcome!
 ## About me
-I'm Abdelrahman Farid, an aspiring Computer Engineer, currently in my senior year at Cairo University. I'm based in Cairo, Egypt.
+I'm Abdelrahman Farid, an aspiring Computer Engineer. I'm based in Cairo, Egypt. I graduated from Cairo University – Faculty of Engineering, Computer Engineering department in July 2022. 
 
 
-I like Chess, Bodybuilding, and Cinema. I'm highly competitive, and I attribute most of my success to my insatiable desire to improve.
+I like Chess, Bodybuilding, and Cinema. I'm highly competitive, and I attribute most of my success to my insatiable desire to improve. I'm always looking forward to working on exciting and challenging projects.
 
 ## What I do
 
@@ -28,6 +28,9 @@ I love working on Computer Graphics, Infrastructure, and general Systems Program
 [![bytesiz3d's github stats](https://github-readme-stats.vercel.app/api?username=bytesiz3d&hide=stars&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/bytesiz3d?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytesiz3d&exclude_repo=sugar,Spotify-El8alaba-Frontend&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/bytesiz3d?tab=repositories)
 </br>
+
+## Resume
+[🔗📝 Link here](https://github.com/bytesiz3d/bytesiz3d/files/9226222/Abdelrahman-Farid-c-small.pdf)
 
 ## Reach me @
 
