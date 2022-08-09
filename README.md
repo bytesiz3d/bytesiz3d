@@ -18,19 +18,10 @@ I like Chess, Bodybuilding, and Cinema. I'm highly competitive, and I attribute 
 
 I love working on Computer Graphics, Infrastructure, and general Systems Programming. I wish to communicate my passion for computers with people through my work.
 
-
-- Check out the two-player maze game I worked on with my classmates, made in pure x86 assembly, [HAUNTED](https://github.com/XL3/haunted).
-- Take a look at my implementation of famous [data structures and algorithms](https://github.com/XL3/cs-cpp), in C++.
-- [enwik8](https://github.com/XL3/enwik8), my attempt to losslessly compress the first 100MB of Wikipedia.
-
-## [My GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
-
-[![bytesiz3d's github stats](https://github-readme-stats.vercel.app/api?username=bytesiz3d&hide=stars&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/bytesiz3d?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytesiz3d&exclude_repo=sugar,Spotify-El8alaba-Frontend&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/bytesiz3d?tab=repositories)
-</br>
-
 ## Resume
-[🔗📝 Link here](https://github.com/bytesiz3d/bytesiz3d/files/9295152/Abdelrahman-Farid-Resume.pdf)
+[🔗📝 PDF](https://github.com/bytesiz3d/bytesiz3d/files/9295152/Abdelrahman-Farid-Resume.pdf)
+![Abdelrahman-Farid-Resume](https://user-images.githubusercontent.com/44498156/183779567-32691399-c1a8-41ce-9171-7d9a1dfd1c62.png)
+
 
 ## Reach me @
 
