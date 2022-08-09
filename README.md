@@ -30,7 +30,7 @@ I love working on Computer Graphics, Infrastructure, and general Systems Program
 </br>
 
 ## Resume
-[🔗📝 Link here](https://github.com/bytesiz3d/bytesiz3d/files/9226222/Abdelrahman-Farid-c-small.pdf)
+[🔗📝 Link here](https://github.com/bytesiz3d/bytesiz3d/files/9295152/Abdelrahman-Farid-Resume.pdf)
 
 ## Reach me @
 
