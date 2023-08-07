@@ -19,8 +19,8 @@ I like Chess, Bodybuilding, and Cinema. I'm highly competitive, and I attribute 
 I love working on Computer Graphics, Infrastructure, and general Systems Programming. I wish to communicate my passion for computers with people through my work.
 
 ## Resume
-[🔗📝 PDF](https://github.com/bytesiz3d/bytesiz3d/files/9295152/Abdelrahman-Farid-Resume.pdf)
-![Abdelrahman-Farid-Resume](https://user-images.githubusercontent.com/44498156/183779567-32691399-c1a8-41ce-9171-7d9a1dfd1c62.png)
+[🔗📝 PDF](https://github.com/bytesiz3d/bytesiz3d/files/12280768/Abdelrahman-Farid-July-23.pdf)
+![Abdelrahman-Farid-July-23](https://github.com/bytesiz3d/bytesiz3d/assets/44498156/6b830416-f7d9-4703-b3e4-8ae27a2c5190)
 
 
 ## Reach me @
