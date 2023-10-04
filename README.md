@@ -1,6 +1,6 @@
 # Welcome!
 ## About me
-I'm Abdelrahman Farid, an aspiring Computer Engineer. I'm based in Cairo, Egypt. I graduated from Cairo University – Faculty of Engineering, Computer Engineering department in July 2022. 
+I'm Abdelrahman Farid, an aspiring Computer Engineer. I'm based in Cairo, Egypt. I graduated from Cairo University – Faculty of Engineering, with a BSc. in Computer Engineering in July 2022. 
 
 
 I like Chess, Bodybuilding, and Cinema. I'm highly competitive, and I attribute most of my success to my insatiable desire to improve. I'm always looking forward to working on exciting and challenging projects.
@@ -20,7 +20,7 @@ I like Chess, Bodybuilding, and Cinema. I'm highly competitive, and I attribute 
 
 </br></br>
 
-I love working on Computer Graphics, Infrastructure, and general Systems Programming. I wish to communicate my passion for computers with people through my work.
+I love working on Computer Graphics, Infrastructure, and Systems Programming. I wish to communicate my passion for computers with people through my work.
 
 ## Resume
 [🔗📝 PDF](https://github.com/bytesiz3d/bytesiz3d/files/12546644/Abdelrahman-Farid.pdf)
