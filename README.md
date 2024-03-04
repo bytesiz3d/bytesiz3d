@@ -3,12 +3,12 @@
 I'm Abdelrahman Farid, an aspiring Computer Engineer. I'm based in Cairo, Egypt. I graduated from Cairo University – Faculty of Engineering, with a BSc. in Computer Engineering in July 2022. 
 
 
-I like Chess, Bodybuilding, and Cinema. I'm highly competitive, and I attribute most of my success to my insatiable desire to improve. I'm always looking forward to working on exciting and challenging projects.
+I like Cinema, Photography, and Chess. I'm highly competitive, and I attribute most of my success to my insatiable desire to improve. I'm always looking forward to working on exciting and challenging projects.
 
 ### Reach me @
 
 [<img align="left" alt="Abdelrahman Farid | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />](mailto:abdelrahman.farid@gmail.com)
-[<img alt="bytesiz3d | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](https://www.linkedin.com/in/XL3/)
+[<img alt="bytesiz3d | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](https://www.linkedin.com/in/bytesiz3d/)
 
 ## What I do
 
@@ -23,7 +23,5 @@ I like Chess, Bodybuilding, and Cinema. I'm highly competitive, and I attribute 
 I love working on Computer Graphics, Infrastructure, and Systems Programming. I wish to communicate my passion for computers with people through my work.
 
 ## Resume
-[🔗📝 PDF](https://github.com/bytesiz3d/bytesiz3d/files/12546644/Abdelrahman-Farid.pdf)
-![image](https://github.com/bytesiz3d/bytesiz3d/assets/44498156/13985dd2-6968-4213-badb-328d67e9f13f)
-
-
+[🔗📝 PDF](https://github.com/bytesiz3d/bytesiz3d/files/14478255/Abdelrahman.Farid.pdf)
+![Abdelrahman Farid-1](https://github.com/bytesiz3d/bytesiz3d/assets/44498156/ac1d215e-704b-485d-8a68-0bbdd383e1dc)
