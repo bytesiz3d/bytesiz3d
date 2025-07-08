@@ -1,0 +1,148 @@
+cv:
+  name: "Abdelrahman Farid"
+  location: "Maadi, Cairo, Egypt"
+  email: "abdelrahman.farid@gmail.com"
+  phone: "tel:+201000716645"
+  social_networks:
+    - network: "GitHub"
+      username: "bytesiz3d"
+    - network: "LinkedIn"
+      username: "bytesiz3d"
+  sections:
+    profile:
+      - "A driven Computer Engineer with an insatiable hunger to build knowledge, experience, skills, and great products. I combine critical thinking, problem-solving skills, and domain-specific knowledge to make the difference between an okay product and an excellent one."
+      - "**Fluent in:** Arabic, English • **Military Status:** Completed  • **Hobbies:** Filmmaking, Chess"
+    education:
+      - institution: "Cairo University"
+        area: "Computer Engineering"
+        degree: "BSc"
+        highlights:
+          - "**Grade**: Distinction with Honors"
+        date: "2022-07"
+    experience:
+      - company: "Siemens DISW"
+        position: "Software Development Engineer"
+        start_date: "2024-03"
+        highlights:
+          - "Received the **Technical Excellence Award** for multiple achievements in Optimization and Performance. "
+          - "Worked on **SolidoSim**, the market's leading Integrated Circuit Simulation Suite."
+      - company: "atomica.ai"
+        position: "Software Engineer III"
+        start_date: "2021-12"
+        end_date: "2024-02"
+        highlights:
+          - "Developed a database browser/editor, with features such as: cloud sync, photo viewing, 3D Model viewing, an embedded scripting language to use for user queries, auto-generated ORM C++ code, and many more features."
+          - "Developed a testing framework that can hook into a given application to record and playback scenarios for testing."
+          - "Developed a C++ parser that detects and reports logical and breaking changes in source files."
+      # - company: "Vodafone Egypt"
+      #   position: "Information Security Intern"
+      #   start_date: "2021-07"
+      #   end_date: "2021-08"
+      #   highlights:
+      #     - "Automated notifying concerned personnel of suspicious activity via E-mail and SMS."
+      #     - "Secured access to be permitted only through devices directly linked to employee credentials, using 2FA and TOTP."
+    selected projects:
+      - name: "ENRoute (Graduation Project)"
+        location: "C++, Python, Google OR-Tools"
+        summary: "A national project, in conjunction with **Egyptian National Railways (ENR)**. It aims to optimize train timetables, and crew assignment according to rail capacity and operational constraints. It also provides a complete digital operations management system to track trains in real-time."
+      # - name: "[DCNN-Accelerator-FC](https://github.com/7asebat/DCNN-Accelerator-FC)"
+      #   location: "Verilog"
+      #   summary: "As part of a larger ASIC chip, this implements the fully-connected layer of a CNN which processes images and classifies written digits in them. I was responsible for designing the fully connected layer in the CNN, applying digital modelling, synthesis and floor planning for the module, producing an ASIC design."
+      - name: "[Compiler](https://github.com/bytesiz3d/toy-compiler)"
+        location: "C++, Compilers"
+        summary: "Implemented a compiler for a Turing-complete programming language. The compiler emits Quadruples and shows the Symbol Table on compilation."
+      - name: "[OS_Scheduler](https://github.com/7asebat/OS_Scheduler)"
+        location: "C++, Operating Systems"
+        summary: "Emulates an operating system scheduler, with processes arriving and going through the scheduling lifecycle of running, being pre-empted, idling, etc.. using concepts such as: Inter-process Communication, Message Passing, Shared Memory, Memory Management, Process Scheduling Algorithms, Signals and Traps."
+      # - name: "[OMR](https://github.com/7asebat/OMR)"
+      #   location: "Python, Machine Learning, Image Processing"
+      #   summary: "An optical glyph recognition system which parses photos of music sheets into the Guido music notation, using different image processing techniques and hand-picked feature-based machine learning classifiers."
+      - name: "[json-explorer](https://github.com/bytesiz3d/json-explorer)"
+        location: "C, C++, Parsing"
+        summary: "Top-down LL(1) JSON parser C library, and a cross-platform JSON explorer application."
+    Technical Experience:
+      - label: "Languages"
+        details: "C, C++, Python, C#, VHDL, Verilog, Golang, TypeScript, JavaScript"
+      - label: "Technologies"
+        details: "GNU Make, CMake, Git, GitHub, GitLab, WinAPI, Linux, Node.js, SQLite, MongoDB, MySQL"
+    achievements and certifications:
+      - company: "Cairo University's Engineering Mathematics Research Forum"
+        position: "3rd Place"
+        summary: For research on applying Edge Detection to detect obstacles in pedestriansʼ paths.
+        date: "2020"
+      - company: "Coursera"
+        position: "Algorithmic Toolbox"
+        date: "2021"
+      - company: "Siemens DISW"
+        position: "Technical Excellence Award"
+        date: "2025"
+design:
+  theme: classic
+  page:
+    show_page_numbering: false
+    show_last_updated_date: false
+    top_margin: "1.6cm"
+    left_margin: "1.4cm"
+    right_margin: "1.4cm"
+  entries:
+    date_and_location_width: "7.15cm"
+  header:
+    vertical_space_between_name_and_connections: "0.5cm"
+    vertical_space_between_connections_and_first_section: "0.4cm"
+  entry_types:
+    normal_entry:
+      main_column_first_row_template: '**NAME**'
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    experience_entry:
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    education_entry:
+      degree_column_width: "1cm"
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+locale:
+  language: "en"
+  phone_number_format: "international"
+  page_numbering_template: "NAME - Page PAGE_NUMBER of TOTAL_PAGES"
+  last_updated_date_template: "Last updated in TODAY"
+  date_template: "MONTH_ABBREVIATION YEAR"
+  month: "month"
+  months: "months"
+  year: "year"
+  years: "years"
+  present: "present"
+  to: "–"
+  abbreviations_for_months:
+    - "Jan"
+    - "Feb"
+    - "Mar"
+    - "Apr"
+    - "May"
+    - "June"
+    - "July"
+    - "Aug"
+    - "Sept"
+    - "Oct"
+    - "Nov"
+    - "Dec"
+  full_names_of_months:
+    - "January"
+    - "February"
+    - "March"
+    - "April"
+    - "May"
+    - "June"
+    - "July"
+    - "August"
+    - "September"
+    - "October"
+    - "November"
+    - "December"
+rendercv_settings:
+  date: "2025-02-02"
+  bold_keywords: []
+
